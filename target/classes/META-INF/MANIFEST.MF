@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: rle0434
+Build-Jdk: 10.0.2
+Implementation-Title: SpringBootATDD
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBootATDD
+Created-By: Maven Integration for Eclipse
+

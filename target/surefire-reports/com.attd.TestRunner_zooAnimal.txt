@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: com.attd.TestRunner_zooAnimal
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 6.722 s <<< FAILURE! - in com.attd.TestRunner_zooAnimal
+Then the animals cow should be stored in the database(| cow |)  Time elapsed: 0.002 s  <<< FAILURE!
+java.lang.AssertionError: expected:<200> but was:<500>
+
+| cow |  Time elapsed: 0.002 s  <<< FAILURE!
+java.lang.AssertionError: expected:<200> but was:<500>
+
+Then the animals tiger should be stored in the database(| tiger |)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<200> but was:<500>
+
+| tiger |  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<200> but was:<500>
+
